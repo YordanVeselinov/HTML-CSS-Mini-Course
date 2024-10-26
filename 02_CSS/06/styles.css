@@ -1,0 +1,12 @@
+h1 {
+    text-decoration: underline;
+    color: white;
+    background-color: #3B516B;
+    border-radius: 10px;
+    padding: 16px 16px;
+}
+
+ol, ul {
+    margin: 14px 10px;
+    padding: 0px 36px;
+}

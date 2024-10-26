@@ -1,0 +1,17 @@
+main {
+    background-color: #DDDDDD;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+p, h2 {
+    padding-left: 8px;
+}
+
+p {
+    margin: 16px 0px;
+}
